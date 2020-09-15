@@ -1,0 +1,18 @@
+<HR COLOR=red>
+异常时间：2020-08-16 19:48:10,413 [1] <BR>
+异常级别：ERROR <BR>BR>
+发送报站异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1>System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it [::1]:8090
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Quickstarts.DataAccessClient.Common.HttpUitls.Post(String JSON_to_Server, String url) in D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\Common\HttpUitls.cs:line 86
+   at Quickstarts.DataAccessClient.MainForm.StartReportBtn_Click(Object sender, EventArgs e) in D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\MainForm.cs:line 1501
+<HR COLOR=red>
+异常时间：2020-08-16 20:19:04,273 [1] <BR>
+异常级别：ERROR <BR>BR>
+服务器返回信息错误:<br/>Specified cast is not valid. <BR>
+ <HR Size=1>System.InvalidCastException: Specified cast is not valid.
+   at Quickstarts.DataAccessClient.MainForm.StartReportBtn_Click(Object sender, EventArgs e) in D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\MainForm.cs:line 1516

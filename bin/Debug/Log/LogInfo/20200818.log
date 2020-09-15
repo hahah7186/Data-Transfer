@@ -1,0 +1,161 @@
+******************************************************************************************
+日誌時間：2020-08-18 20:15:53,403 [1] 
+日誌級別：INFO  
+程式啟動！ 
+******************************************************************************************
+日誌時間：2020-08-18 20:16:06,489 [1] 
+日誌級別：INFO  
+程式關閉。 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:01,862 [1] 
+日誌級別：INFO  
+程式啟動！ 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:09,713 [1] 
+日誌級別：INFO  
+已與PLC建立鏈接。 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:11,841 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:12,247 [1] 
+日誌級別：INFO  
+報站，服務器反饋參數如下:
+{
+    "rc": "000",
+    "rm": "OK",
+    "ip": "10.176.119.117",
+    "token": "81819e4092fa71abdc6420ee20144e7625709bf25d7bce99181ac6964c08fa7125ef4a5fd3153a521347759043ca3a19792ef26a3c433ae5558e3377ba6f52fc",
+    "product": "DM2",
+    "part": "CG",
+    "station_id": "GBDGLC083FL0101",
+    "floor_no": "GL-C08-3F",
+    "line_name": "C08-3FA-01",
+    "expiry_date": "2020-08-19 00:21:02",
+    "host_id": "GBDGLC083FL0101",
+    "wrkst_name": "Guide_Blade",
+    "version": "1.0"
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:33,973 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:33,987 [1] 
+日誌級別：INFO  
+報站，服務器反饋參數如下:
+{
+    "rc": "000",
+    "rm": "OK",
+    "ip": "10.176.119.117",
+    "token": "42b37a198301b0fa04a87576b7ec3300b8bd0e111f7580f950a6c14bf66337b049a4537580ff25c82f4573359f987e86c7c8fb5a61e468c2b5e1d3e17a3d5080",
+    "product": "DM2",
+    "part": "CG",
+    "station_id": "GBDGLC083FL0101",
+    "floor_no": "GL-C08-3F",
+    "line_name": "C08-3FA-01",
+    "expiry_date": "2020-08-19 00:21:24",
+    "host_id": "GBDGLC083FL0101",
+    "wrkst_name": "Guide_Blade",
+    "version": "1.0"
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:34,074 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"42b37a198301b0fa04a87576b7ec3300b8bd0e111f7580f950a6c14bf66337b049a4537580ff25c82f4573359f987e86c7c8fb5a61e468c2b5e1d3e17a3d5080","request_id":"1017611911720200818082133987000001","productinfo":{"barcode":"r","code_type":"CG","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"GLUE_CLEAN","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200818082121","end_time":"20200818082133","fixture_id":"","cavity":"A","prod_data":[{"item_name":"left temperature","item_val":"200"},{"item_name":"right temperature","item_val":"200"},{"item_name":"pressure","item_val":"350"}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:21:34,085 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "001",
+    "sysdate": "20200818202124",
+    "rm": "Json無法解析",
+    "request_id": ""
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:22:58,061 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:22:58,075 [1] 
+日誌級別：INFO  
+報站，服務器反饋參數如下:
+{
+    "rc": "000",
+    "rm": "OK",
+    "ip": "10.176.119.117",
+    "token": "993a2773a0696588da8bd8909580b442232bd8b4ec8d30afc2f06fbe580964b5bd20343d6e8a082005b903f7518b777133485126b4d44095692b7c384a8c3a90",
+    "product": "DM2",
+    "part": "CG",
+    "station_id": "GBDGLC083FL0101",
+    "floor_no": "GL-C08-3F",
+    "line_name": "C08-3FA-01",
+    "expiry_date": "2020-08-19 00:22:48",
+    "host_id": "GBDGLC083FL0101",
+    "wrkst_name": "Guide_Blade",
+    "version": "1.0"
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:22:58,075 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"993a2773a0696588da8bd8909580b442232bd8b4ec8d30afc2f06fbe580964b5bd20343d6e8a082005b903f7518b777133485126b4d44095692b7c384a8c3a90","request_id":"1017611911720200818082258075000001","productinfo":{"barcode":"SHYJUBGNMTYWRTYGH","code_type":"CG","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"GLUE_CLEAN","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200818082244","end_time":"20200818082258","fixture_id":"","cavity":"A","prod_data":[{"item_name":"left temperature","item_val":"200"},{"item_name":"right temperature","item_val":"200"},{"item_name":"pressure","item_val":"350"}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:22:58,082 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "001",
+    "sysdate": "20200818202248",
+    "rm": "Json無法解析",
+    "request_id": ""
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:24:10,992 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:24:11,027 [1] 
+日誌級別：INFO  
+報站，服務器反饋參數如下:
+{
+    "rc": "000",
+    "rm": "OK",
+    "ip": "10.176.119.117",
+    "token": "4e25ee598b172113af379a6ffd967ac41bb446107a54652d1272dfd2fd790f20540f1852552e675a34780e67a61364a5eb349ee88e091aa4b4e135133ed587be",
+    "product": "DM2",
+    "part": "CG",
+    "station_id": "GBDGLC083FL0101",
+    "floor_no": "GL-C08-3F",
+    "line_name": "C08-3FA-01",
+    "expiry_date": "2020-08-19 00:24:01",
+    "host_id": "GBDGLC083FL0101",
+    "wrkst_name": "Guide_Blade",
+    "version": "1.0"
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:24:11,027 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"4e25ee598b172113af379a6ffd967ac41bb446107a54652d1272dfd2fd790f20540f1852552e675a34780e67a61364a5eb349ee88e091aa4b4e135133ed587be","request_id":"1017611911720200818082411027000001","productinfo":{"barcode":"SHYJUBGNMTYWRTYGH","code_type":"CG","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"GLUE_CLEAN","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200818082244","end_time":"20200818082410","fixture_id":"","cavity":"A","prod_data":[{"item_name":"left temperature","item_val":"202"},{"item_name":"right temperature","item_val":"198"},{"item_name":"pressure","item_val":"352"}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-18 20:24:11,058 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "001",
+    "sysdate": "20200818202401",
+    "rm": "Json無法解析",
+    "request_id": ""
+} 
+******************************************************************************************
+日誌時間：2020-08-18 20:25:11,434 [1] 
+日誌級別：INFO  
+程式關閉。 

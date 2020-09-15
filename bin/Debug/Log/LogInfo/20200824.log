@@ -1,0 +1,123 @@
+******************************************************************************************
+日誌時間：2020-08-24 16:17:16,850 [1] 
+日誌級別：INFO  
+程式啟動！ 
+******************************************************************************************
+日誌時間：2020-08-24 16:17:17,631 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 16:17:18,053 [1] 
+日誌級別：INFO  
+報站，服務器反饋參數如下:
+{
+    "rc": "000",
+    "rm": "OK",
+    "ip": "10.176.119.117",
+    "token": "ab392849f36119ab9c9847e84b55eca0d652f795f2eaa59e202220a4b060115fdaaa12ee1f7a934baef12eb8cc1eca853fc4d0f293a0803bc4967b359394d6b1",
+    "product": "DM2",
+    "part": "CG",
+    "station_id": "GBDGLC083FL0101",
+    "floor_no": "GL-C08-3F",
+    "line_name": "C08-3FA-01",
+    "expiry_date": "2020-08-24 20:18:13",
+    "host_id": "GBDGLC083FL0101",
+    "wrkst_name": "Guide_Blade",
+    "version": "1.0"
+} 
+******************************************************************************************
+日誌時間：2020-08-24 16:18:01,972 [1] 
+日誌級別：INFO  
+開機報站成功 
+******************************************************************************************
+日誌時間：2020-08-24 16:18:06,144 [1] 
+日誌級別：INFO  
+已與PLC建立鏈接。 
+******************************************************************************************
+日誌時間：2020-08-24 16:18:07,551 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"ab392849f36119ab9c9847e84b55eca0d652f795f2eaa59e202220a4b060115fdaaa12ee1f7a934baef12eb8cc1eca853fc4d0f293a0803bc4967b359394d6b1","request_id":"1017611911720200824041807426000001","productinfo":{"barcode":"G9P0324JFMCLQHKA1+A1110","code_type":"DISPLAY","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"Guide_Blade","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200824160805","end_time":"20200824160817","fixture_id":"","cavity":"A","parainfo":[{"item_name":"Temperature","item_val":"200"},{"item_name":"Pressure","item_val":"350"},{"item_name":"Blade_Position_#","item_val":"8"},{"item_name":"Part_#","item_val":""},{"item_name":"Vacuum_Degree","item_val":""}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 16:18:07,566 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "350",
+    "sysdate": "20200824161821",
+    "rm": "加工時間超時,請確認系統當前時間",
+    "request_id": "1017611911720200824041807426000001"
+} 
+******************************************************************************************
+日誌時間：2020-08-24 16:19:41,592 [1] 
+日誌級別：INFO  
+重新與PLC建立鏈接。 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:04,476 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"ab392849f36119ab9c9847e84b55eca0d652f795f2eaa59e202220a4b060115fdaaa12ee1f7a934baef12eb8cc1eca853fc4d0f293a0803bc4967b359394d6b1","request_id":"1017611911720200824042104460000002","productinfo":{"barcode":"G9P0324JFMCLQHKA1+A1110","code_type":"DISPLAY","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"Guide_Blade","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200824162135","end_time":"20200824162156","fixture_id":"","cavity":"B","parainfo":[{"item_name":"Temperature","item_val":"200"},{"item_name":"Pressure","item_val":"350"},{"item_name":"Blade_Position_#","item_val":"2"},{"item_name":"Part_#","item_val":"0"},{"item_name":"Vacuum_Degree","item_val":"True"}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:04,507 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "000",
+    "sysdate": "20200824162117",
+    "rm": "操作成功",
+    "request_id": "1017611911720200824042104460000002"
+} 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:27,463 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"ab392849f36119ab9c9847e84b55eca0d652f795f2eaa59e202220a4b060115fdaaa12ee1f7a934baef12eb8cc1eca853fc4d0f293a0803bc4967b359394d6b1","request_id":"1017611911720200824042127463000003","productinfo":{"barcode":"G9P0324JFMCLQHKA1+A1110","code_type":"DISPLAY","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"Guide_Blade","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200824162207","end_time":"20200824162219","fixture_id":"","cavity":"B","parainfo":[{"item_name":"Temperature","item_val":"200"},{"item_name":"Pressure","item_val":"350"},{"item_name":"Blade_Position_#","item_val":"2"},{"item_name":"Part_#","item_val":"1"},{"item_name":"Vacuum_Degree","item_val":"True"}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:27,478 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "000",
+    "sysdate": "20200824162140",
+    "rm": "操作成功",
+    "request_id": "1017611911720200824042127463000003"
+} 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:28,479 [1] 
+日誌級別：INFO  
+上傳SFC服務器清膠參數：
+data={"token":"ab392849f36119ab9c9847e84b55eca0d652f795f2eaa59e202220a4b060115fdaaa12ee1f7a934baef12eb8cc1eca853fc4d0f293a0803bc4967b359394d6b1","request_id":"1017611911720200824042128479000004","productinfo":{"barcode":"G9P0324JFMCLQHKA1+A1110","code_type":"DISPLAY","process_type":"Assembly","station_id":"Guide_Blade"},"machineinfo":{"host_ip":"10.176.119.117","machine_id":"GBDGLC083FL0101","control_machine_id":"GBDGLC083FL0101","module_id":"GBDGLC083FL0101","equipment_type":"Guide_Blade","location":"GL-C08-3F","line":"C08-3FA-01"},"recipeinfo":{"start_time":"20200824162207","end_time":"20200824162219","fixture_id":"","cavity":"B","parainfo":[{"item_name":"Temperature","item_val":"200"},{"item_name":"Pressure","item_val":"350"},{"item_name":"Blade_Position_#","item_val":"2"},{"item_name":"Part_#","item_val":"1"},{"item_name":"Vacuum_Degree","item_val":"True"}]}}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:28,494 [1] 
+日誌級別：INFO  
+SFC服務器反饋清膠參數：
+{
+    "rc": "000",
+    "sysdate": "20200824162141",
+    "rm": "操作成功",
+    "request_id": "1017611911720200824042128479000004"
+} 
+******************************************************************************************
+日誌時間：2020-08-24 16:21:53,575 [1] 
+日誌級別：INFO  
+程式關閉。 
+******************************************************************************************
+日誌時間：2020-08-24 22:41:06,395 [1] 
+日誌級別：INFO  
+程式啟動！ 
+******************************************************************************************
+日誌時間：2020-08-24 22:41:07,050 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 22:41:21,300 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 
+******************************************************************************************
+日誌時間：2020-08-24 22:41:51,822 [1] 
+日誌級別：INFO  
+開始報站，參數如下：
+data={"machine_id":"GBDGLC083FL0101","station_id":"Guide_Blade","ip":"10.176.119.117"}&version=1.0 

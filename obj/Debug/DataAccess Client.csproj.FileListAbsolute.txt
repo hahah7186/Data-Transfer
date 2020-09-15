@@ -1,0 +1,251 @@
+D:\bin\Debug\DataAccessClient.Config.xml
+D:\bin\Debug\App.ico
+D:\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\App.ico
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Opc.Ua.Client.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Opc.Ua.ClientControls.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Opc.Ua.Configuration.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Opc.Ua.Core.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\log4net.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\log4net.xml
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\ProjectTest\Client\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\ProjectTest\Client\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\App.ico
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\log4net.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Opc.Ua.Client.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Opc.Ua.ClientControls.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Opc.Ua.Configuration.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Opc.Ua.Core.dll
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\log4net.xml
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\ProjectTest\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V2.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V4.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V5.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Quickstarts.DataAccessClient.exe.manifest
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Quickstarts.DataAccessClient.application
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.exe.manifest
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.application
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V6.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V7.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V8.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\DataAccessClient.Config.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\App.ico
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\log4net.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\log4net.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.exe
+D:\VS_Workspace\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.pdb
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\DataAccessClient.Config.xml
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\App.ico
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Quickstarts.DataAccessClient.exe.config
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Quickstarts.DataAccessClient.exe
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Quickstarts.DataAccessClient.pdb
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\log4net.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\log4net.xml
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csprojAssemblyReference.cache
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csproj.GenerateResource.cache
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csproj.CoreCompileInputs.cache
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\DataAccess Client.csproj.CopyComplete
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.exe
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Debug\Quickstarts.DataAccessClient.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MachineConfiguration>
+  <InitialPlcUrl>opc.tcp://192.168.73.1:4840</InitialPlcUrl>
+  <MachineId>GBDGLC083FL0101</MachineId>
+  <StationId>Guide_Blade</StationId>
+  <IP>10.176.119.117</IP>
+  <DeletedLogDays>15</DeletedLogDays>
+  <LeftStartTimeNodeId>ns=3;s="Communication"."start_time_1"</LeftStartTimeNodeId>
+  <LeftEndTimeNodeId>ns=3;s="Communication"."end_time_1"</LeftEndTimeNodeId>
+  <LeftBarcodeNodeId>ns=3;s="MV420"."scancode"[0]."MV_DATA"</LeftBarcodeNodeId>
+  <LeftBladePositionNodeId>ns=3;s="HMI_ProductParas"."HMI_ScraperKnife"[0]."currentSeat"</LeftBladePositionNodeId>
+  <RightStartTimeNodeId>ns=3;s="Communication"."start_time_2"</RightStartTimeNodeId>
+  <RightEndTimeNodeId>ns=3;s="Communication"."end_time_2"</RightEndTimeNodeId>
+  <RightBarcodeNodeId>ns=3;s="MV420"."scancode"[1]."MV_DATA"</RightBarcodeNodeId>
+  <RightBladePositionNodeId>ns=3;s="HMI_ProductParas"."HMI_ScraperKnife"[1]."currentSeat"</RightBladePositionNodeId>
+  <LeftPartNodeId>ns=3;s="HMI_ProductParas"."HMI_ScraperKnife"[0]."currentPCS"</LeftPartNodeId>
+  <RightPartNodeId>ns=3;s="HMI_ProductParas"."HMI_ScraperKnife"[1]."currentPCS"</RightPartNodeId>
+  <!--<LeftRealmCalmNodeId>ns=3;s="Interface_Cylinder"."Interface_Cylinder"[0]."Status"."VacuumCheckOK"</LeftRealmCalmNodeId>-->
+  <!--<RightRealmCalmNodeId>ns=3;s="Interface_Cylinder"."Interface_Cylinder"[1]."Status"."VacuumCheckOK"</RightRealmCalmNodeId>-->
+  <ShopFloorName>GL</ShopFloorName>
+</MachineConfiguration>
+

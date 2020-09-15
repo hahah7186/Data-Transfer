@@ -1,0 +1,43 @@
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\DataAccessClient.Config.xml
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\App.ico
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Quickstarts.DataAccessClient.exe.config
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Quickstarts.DataAccessClient.exe
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Quickstarts.DataAccessClient.pdb
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\log4net.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Newtonsoft.Json.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Opc.Ua.Client.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Opc.Ua.ClientControls.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Opc.Ua.Configuration.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Opc.Ua.Core.dll
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\log4net.xml
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\bin\Release\Newtonsoft.Json.xml
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csprojAssemblyReference.cache
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.MainForm.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.WriteValueDlg.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.Properties.Resources.resources
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csproj.GenerateResource.cache
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csproj.CoreCompileInputs.cache
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csproj.CopyComplete
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.exe
+C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.pdb
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\DataAccessClient.Config.xml
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\App.ico
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\Quickstarts.DataAccessClient.exe.config
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\Quickstarts.DataAccessClient.exe
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\Quickstarts.DataAccessClient.pdb
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\log4net.dll
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\log4net.xml
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.MainForm.resources
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.WriteValueDlg.resources
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.Properties.Resources.resources
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csproj.GenerateResource.cache
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csproj.CoreCompileInputs.cache
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csproj.CopyComplete
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.exe
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\Quickstarts.DataAccessClient.pdb
+D:\Projects\Foxconn\Foxconn Clean Glue Realated\Foxconn_Data_Transfer_V9.0\obj\Release\DataAccess Client.csprojAssemblyReference.cache

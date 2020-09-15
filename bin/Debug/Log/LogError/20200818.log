@@ -1,0 +1,39 @@
+<HR COLOR=red>
+异常时间：2020-08-18 19:50:00,078 [1] <BR>
+异常级别：ERROR <BR>BR>
+報站失敗，原因如下：
+Unexpected character encountered while parsing value: d. Path '', line 0, position 0. <BR>
+ <HR Size=1>Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: d. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader)
+   at Quickstarts.DataAccessClient.Common.HttpUitls.ConvertJsonString(String str) in D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\Common\HttpUitls.cs:line 107
+   at Quickstarts.DataAccessClient.MainForm.ReportStation() in D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\MainForm.cs:line 727
+<HR COLOR=red>
+异常时间：2020-08-18 19:51:08,223 [1] <BR>
+异常级别：ERROR <BR>BR>
+報站失敗，原因如下：
+Unexpected character encountered while parsing value: d. Path '', line 0, position 0. <BR>
+ <HR Size=1>Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: d. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader)
+   at Quickstarts.DataAccessClient.Common.HttpUitls.ConvertJsonString(String str) in D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\Common\HttpUitls.cs:line 107
+   at Quickstarts.DataAccessClient.MainForm.ReportStation() in D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\MainForm.cs:line 727
+<HR COLOR=red>
+异常时间：2020-08-18 19:51:45,656 [1] <BR>
+异常级别：ERROR <BR>BR>
+報站失敗，原因如下：
+Unexpected character encountered while parsing value: d. Path '', line 0, position 0. <BR>
+ <HR Size=1>Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: d. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader)
+   at Quickstarts.DataAccessClient.Common.HttpUitls.ConvertJsonString(String str) in D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\Common\HttpUitls.cs:line 107
+   at Quickstarts.DataAccessClient.MainForm.ReportStation() in D:\VS_Workspace\Foxconn_Data_Transfer_V3.0\MainForm.cs:line 727

@@ -1,0 +1,30 @@
+<HR COLOR=red>
+异常时间：2020-08-26 18:58:56,179 [1] <BR>
+异常级别：ERROR <BR>BR>
+報站失敗，原因如下：
+The remote name could not be resolved: 'sfc02-icge-gl.ipebg.efoxconn.com' <BR>
+ <HR Size=1>System.Net.WebException: The remote name could not be resolved: 'sfc02-icge-gl.ipebg.efoxconn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Quickstarts.DataAccessClient.Common.HttpUitls.Post(String JSON_to_Server, String url) in C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\Common\HttpUitls.cs:line 84
+   at Quickstarts.DataAccessClient.MainForm.ReportStation() in C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\MainForm.cs:line 811
+<HR COLOR=red>
+异常时间：2020-08-26 19:15:19,400 [1] <BR>
+异常级别：ERROR <BR>BR>
+報站失敗，原因如下：
+The remote name could not be resolved: 'sfc02-icge-gl.ipebg.efoxconn.com' <BR>
+ <HR Size=1>System.Net.WebException: The remote name could not be resolved: 'sfc02-icge-gl.ipebg.efoxconn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Quickstarts.DataAccessClient.Common.HttpUitls.Post(String JSON_to_Server, String url) in C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\Common\HttpUitls.cs:line 84
+   at Quickstarts.DataAccessClient.MainForm.ReportStation() in C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\MainForm.cs:line 811
+<HR COLOR=red>
+异常时间：2020-08-26 19:17:05,435 [1] <BR>
+异常级别：ERROR <BR>BR>
+報站失敗，原因如下：
+The remote name could not be resolved: 'sfc02-icge-gl.ipebg.efoxconn.com' <BR>
+ <HR Size=1>System.Net.WebException: The remote name could not be resolved: 'sfc02-icge-gl.ipebg.efoxconn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Quickstarts.DataAccessClient.Common.HttpUitls.Post(String JSON_to_Server, String url) in C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\Common\HttpUitls.cs:line 84
+   at Quickstarts.DataAccessClient.MainForm.ReportStation() in C:\Users\Z00426AY\Desktop\Foxconn_Data_Transfer_V9.0\MainForm.cs:line 812

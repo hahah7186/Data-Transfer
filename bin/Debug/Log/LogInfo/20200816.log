@@ -1,0 +1,1271 @@
+<HR COLOR=blue>
+日志时间：2020-08-16 17:19:19,197 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:21:30,143 [1] <BR>
+日志级别：INFO  <BR>
+程序关闭。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:27:32,080 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:27:55,067 [1] <BR>
+日志级别：INFO  <BR>
+程序关闭。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:28:39,085 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:29:17,704 [1] <BR>
+日志级别：INFO  <BR>
+过期日志已被删除。删除日志信息如下：20200501.log；20200504.log；20200505.log； <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:35:27,249 [1] <BR>
+日志级别：INFO  <BR>
+程序关闭。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:17,502 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:22,157 [1] <BR>
+日志级别：INFO  <BR>
+程序已连接至PLC。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:29,238 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "51531",
+    "bind_code_list": [
+        {
+            "code_sn": "A396",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "288841323",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "8.294741E-22",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:31,532 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:31,532 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "90519",
+    "bind_code_list": [
+        {
+            "code_sn": "A228",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "280776829",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-1.173327E-35",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:33,804 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:33,805 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "26427",
+    "bind_code_list": [
+        {
+            "code_sn": "A815",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "633222481",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-5.671123E+33",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:36,022 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:36,023 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "35059",
+    "bind_code_list": [
+        {
+            "code_sn": "A150",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "682138263",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-3.670507E+31",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:38,278 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:38,278 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "52329",
+    "bind_code_list": [
+        {
+            "code_sn": "A561",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "432818980",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-2.368904E-08",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:40,531 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:40,532 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "69599",
+    "bind_code_list": [
+        {
+            "code_sn": "A973",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "183499698",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-0.0004655118",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:42,792 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:42,792 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "59392",
+    "bind_code_list": [
+        {
+            "code_sn": "A807",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "999607477",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "7.513095E-38",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:45,079 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:45,079 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "85300",
+    "bind_code_list": [
+        {
+            "code_sn": "A494",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "452053129",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-1.177055E+12",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:50,760 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:48:55,918 [1] <BR>
+日志级别：INFO  <BR>
+程序已连接至PLC。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:04,666 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "23389",
+    "bind_code_list": [
+        {
+            "code_sn": "A454",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "739430874",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "2.132166E-07",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:06,964 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:06,964 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "89854",
+    "bind_code_list": [
+        {
+            "code_sn": "A862",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "565939317",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "1.179456E-31",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:09,222 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:09,224 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "79646",
+    "bind_code_list": [
+        {
+            "code_sn": "A696",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "482047097",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "1.436357E+16",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:11,509 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:11,510 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "15554",
+    "bind_code_list": [
+        {
+            "code_sn": "A383",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "834492749",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "0.001719093",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:13,785 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:13,786 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "67870",
+    "bind_code_list": [
+        {
+            "code_sn": "A540",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "916027591",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "8.485159E-07",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:16,043 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:16,045 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "85140",
+    "bind_code_list": [
+        {
+            "code_sn": "A951",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "666708309",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-1.01133E-17",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:18,325 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:18,326 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "21048",
+    "bind_code_list": [
+        {
+            "code_sn": "A638",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "119153960",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-1.961256E-30",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:20,590 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 17:50:20,591 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "74433",
+    "bind_code_list": [
+        {
+            "code_sn": "A902",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "306172549",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-1.082926E+10",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 18:07:45,651 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 18:08:03,054 [1] <BR>
+日志级别：INFO  <BR>
+程序关闭。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:05,362 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:17,413 [1] <BR>
+日志级别：INFO  <BR>
+程序已连接至PLC。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:23,813 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "24071",
+    "bind_code_list": [
+        {
+            "code_sn": "A148",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "750645985",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "0.0006046302",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:26,083 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:26,084 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "39777",
+    "bind_code_list": [
+        {
+            "code_sn": "A510",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "672048568",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-1.995061E+31",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:28,346 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:28,346 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "57048",
+    "bind_code_list": [
+        {
+            "code_sn": "A921",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "422729285",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "1.327893E-36",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:30,570 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:30,570 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "38202",
+    "bind_code_list": [
+        {
+            "code_sn": "A579",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "637072131",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "5.671675E+29",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:32,835 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:32,835 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "91588",
+    "bind_code_list": [
+        {
+            "code_sn": "A843",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "824090719",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "2.239257E+24",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:35,092 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:35,093 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "18858",
+    "bind_code_list": [
+        {
+            "code_sn": "A355",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "574771436",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-4.349898E+27",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:37,387 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:37,387 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "17289",
+    "bind_code_list": [
+        {
+            "code_sn": "A365",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "192644151",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-0.3323011",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:39,641 [1] <BR>
+日志级别：INFO  <BR>
+发送数据库异常:<br/>Unable to connect to the remote server <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 19:48:39,642 [1] <BR>
+日志级别：INFO  <BR>
+准备一下数据发送至MES系统：<br/>{
+    "bill_no": "34559",
+    "bind_code_list": [
+        {
+            "code_sn": "A776",
+            "code_type": "FIXTURE",
+            "replace": "2",
+            "trans": "N"
+        }
+    ],
+    "config": "",
+    "controller_id": "Hans005",
+    "floor_id": "C08-3F",
+    "host_id": "hans007",
+    "host_ip": "10.197.102.106",
+    "line_id": "L2",
+    "machine_id": "Hans005",
+    "part": "",
+    "phase": "",
+    "process_id": "843324868",
+    "prod_code": "DR8805600CZMNBCA401",
+    "prod_type": "FRAME",
+    "product": "701",
+    "request_id": "1017358157201805151020433031",
+    "side_id": "GL",
+    "end_time": "20180515102133",
+    "start_time": "20180515102033",
+    "token": "84876f2e45e9",
+    "wip_type": "wipin",
+    "wo_no": "",
+    "work_start_time": "20180515102033",
+    "work_end_time": "20180515102133",
+    "work_qis": "-8.55453E+08",
+    "work_trans": "deal",
+    "wrkst_name": "FrameDispense",
+    "wrkst_type": "fullcheck",
+    "version": null
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:06:38,060 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:07:49,211 [1] <BR>
+日志级别：INFO  <BR>
+报站：从MES系统收到的反馈数据:<br/>{
+    "floor_no": "ZZ-B01-3F",
+    "product": "801",
+    "change_date": "2018-10-12 18:00:00",
+    "station_id": "DAAZZKB013FL0508",
+    "ip": "10.176.80.68",
+    "part": "CG",
+    "interval_time": "240",
+    "version": "1.0",
+    "building": "HZGL",
+    "host_id": "DAAZZKB013FL0508",
+    "token": "f9e84c950fd7980988a63480e4fe3cdfe6eb21b397046a65a1ee2ca11b7f26a9188f716369877c014b93cf4fd85b3859",
+    "tb_control_flag": "Y",
+    "rc": "000",
+    "sysdate": "20190124183658",
+    "module_id": "DAAZZKB013FL0508",
+    "line_name": "ZZKB013F-L001",
+    "rm": "报站成功",
+    "station_type": "DISPENSE",
+    "wrkst_name": "FrameDispense"
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:18:13,463 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:18:17,712 [1] <BR>
+日志级别：INFO  <BR>
+报站：从MES系统收到的反馈数据:<br/>{
+    "floor_no": "ZZ-B01-3F",
+    "product": "801",
+    "change_date": "2018-10-12 18:00:00",
+    "station_id": "DAAZZKB013FL0508",
+    "ip": "10.176.80.68",
+    "part": "CG",
+    "interval_time": "240",
+    "version": "1.0",
+    "building": "HZGL",
+    "host_id": "DAAZZKB013FL0508",
+    "token": "f9e84c950fd7980988a63480e4fe3cdfe6eb21b397046a65a1ee2ca11b7f26a9188f716369877c014b93cf4fd85b3859",
+    "tb_control_flag": "Y",
+    "rc": "000",
+    "sysdate": "20190124183658",
+    "module_id": "DAAZZKB013FL0508",
+    "line_name": "ZZKB013F-L001",
+    "rm": "报站成功",
+    "station_type": "DISPENSE",
+    "wrkst_name": "FrameDispense"
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:19:08,920 [1] <BR>
+日志级别：INFO  <BR>
+报站：从MES系统收到的反馈数据:<br/>{
+    "floor_no": "ZZ-B01-3F",
+    "product": "801",
+    "change_date": "2018-10-12 18:00:00",
+    "station_id": "DAAZZKB013FL0508",
+    "ip": "10.176.80.68",
+    "part": "CG",
+    "interval_time": "240",
+    "version": "1.0",
+    "building": "HZGL",
+    "host_id": "DAAZZKB013FL0508",
+    "token": "f9e84c950fd7980988a63480e4fe3cdfe6eb21b397046a65a1ee2ca11b7f26a9188f716369877c014b93cf4fd85b3859",
+    "tb_control_flag": "Y",
+    "rc": "000",
+    "sysdate": "20190124183658",
+    "module_id": "DAAZZKB013FL0508",
+    "line_name": "ZZKB013F-L001",
+    "rm": "报站成功",
+    "station_type": "DISPENSE",
+    "wrkst_name": "FrameDispense"
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:27:12,281 [1] <BR>
+日志级别：INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2020-08-16 20:27:19,161 [1] <BR>
+日志级别：INFO  <BR>
+报站：从MES系统收到的反馈数据:<br/>{
+    "floor_no": "ZZ-B01-3F",
+    "product": "801",
+    "change_date": "2018-10-12 18:00:00",
+    "station_id": "DAAZZKB013FL0508",
+    "ip": "10.176.80.68",
+    "part": "CG",
+    "interval_time": "240",
+    "version": "1.0",
+    "building": "HZGL",
+    "host_id": "DAAZZKB013FL0508",
+    "token": "f9e84c950fd7980988a63480e4fe3cdfe6eb21b397046a65a1ee2ca11b7f26a9188f716369877c014b93cf4fd85b3859",
+    "tb_control_flag": "Y",
+    "rc": "000",
+    "sysdate": "20190124183658",
+    "module_id": "DAAZZKB013FL0508",
+    "line_name": "ZZKB013F-L001",
+    "rm": "报站成功",
+    "station_type": "DISPENSE",
+    "wrkst_name": "FrameDispense"
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+????:2020-08-16 02:22:57,523 [1] <BR>
+????:INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+????:2020-08-16 02:23:02,338 [1] <BR>
+????:INFO  <BR>
+程序关闭。 <BR>
+ <HR Size=1><HR COLOR=blue>
+????:2020-08-16 02:23:51,296 [1] <BR>
+????:INFO  <BR>
+启动。 <BR>
+ <HR Size=1><HR COLOR=blue>
+????:2020-08-16 02:25:42,164 [1] <BR>
+????:INFO  <BR>
+报站：从MES系统收到的反馈数据:<br/>{
+    "rc": "000",
+    "rm": "OK",
+    "ip": "10.176.119.117",
+    "token": "be0a238436eef26b85600eab1e82f25f21ddaeb3848c90eaf31b4f78aa459af8a31274a5d81bc61ea45ef10b578971da0bd8c1c7105c1b1241c63e8e8e7b707b",
+    "product": "DM2",
+    "part": "CG",
+    "station_id": "GBDGLC083FL0101",
+    "floor_no": "GL-C08-3F",
+    "line_name": "C08-3FA-01",
+    "expiry_date": "2020-08-17 18:22:53",
+    "host_id": "GBDGLC083FL0101",
+    "wrkst_name": "Guide_Blade",
+    "version": "1.0"
+} <BR>
+ <HR Size=1><HR COLOR=blue>
+????:2020-08-16 02:30:59,703 [1] <BR>
+????:INFO  <BR>
+程序关闭。 <BR>
+ <HR Size=1>
